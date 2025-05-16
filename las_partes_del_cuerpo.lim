@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>Recurso</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>EBBCF1</corfondo>
+        <corbanda>BF75C6</corbanda>
+        <cornavega>C673CC</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Las partes de la cara</titulo>
+        <subtitulo>parts of the face</subtitulo>
+        <autor>Carla Baena</autor>
+        <logo>05a7d1f6e26c0f6e5c9e8a58be1b8368.jpg</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva1.JPG</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Diapositiva2.JPG</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>22</tipo>
+              <modo>5</modo>
+              <cousa nome="" son="Audio_de_WhatsApp_2025-05-15_a_las_21.01.52_27c49952.dat_(online-audio-converter.com).mp3">Captura_de_pantalla_2025-05-15_193657.png</cousa>
+              <cousa nome="" son="Audio_de_WhatsApp_2025-05-15_a_las_21.01.51_ef02dc54.dat_(online-audio-converter.com).mp3">Captura_de_pantalla_2025-05-15_193642.png</cousa>
+              <cousa nome="" son="Audio_de_WhatsApp_2025-05-15_a_las_21.01.52_3b832f75.dat_(online-audio-converter.com).mp3">Captura_de_pantalla_2025-05-15_193628.png</cousa>
+              <cousa nome="" son="Audio_de_WhatsApp_2025-05-15_a_las_21.01.52_58ccdac9.dat_(online-audio-converter.com).mp3">Captura_de_pantalla_2025-05-15_193616.png</cousa>
+              <cousa nome="" son="Audio_de_WhatsApp_2025-05-15_a_las_21.01.51_6b3065db.dat_(online-audio-converter.com).mp3">Captura_de_pantalla_2025-05-15_193547.png</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <imaxe>Diapositiva2.JPG</imaxe>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>39</tipo>
+              <modo>1</modo>
+            <parellas imaxe="Captura_de_pantalla_2025-05-15_193547.png" texto="">Captura_de_pantalla_2025-05-15_193547.png</parellas>
+              <parellas imaxe="Captura_de_pantalla_2025-05-15_193616.png" texto="">Captura_de_pantalla_2025-05-15_193616.png</parellas>
+              <parellas imaxe="Captura_de_pantalla_2025-05-15_193628.png" texto="">Captura_de_pantalla_2025-05-15_193628.png</parellas>
+              <parellas imaxe="Captura_de_pantalla_2025-05-15_193642.png" texto="">Captura_de_pantalla_2025-05-15_193642.png</parellas>
+              <parellas imaxe="Captura_de_pantalla_2025-05-15_193657.png" texto="">Captura_de_pantalla_2025-05-15_193657.png</parellas>
+              <parellas imaxe="Captura_de_pantalla_2025-05-15_193538.png" texto="">Captura_de_pantalla_2025-05-15_193538.png</parellas>
+              <cfondo>EBBCF1</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>39</tipo>
+              <modo>1</modo>
+            <parellas imaxe="Captura_de_pantalla_2025-05-15_193616.png" texto="">Captura_de_pantalla_2025-05-15_193616.png</parellas>
+              <parellas imaxe="Captura_de_pantalla_2025-05-15_193642.png" texto="">Captura_de_pantalla_2025-05-15_193642.png</parellas>
+              <parellas imaxe="Captura_de_pantalla_2025-05-15_193547.png" texto="">Captura_de_pantalla_2025-05-15_193547.png</parellas>
+              <parellas imaxe="Captura_de_pantalla_2025-05-15_193538.png" texto="">Captura_de_pantalla_2025-05-15_193538.png</parellas>
+              <parellas imaxe="Captura_de_pantalla_2025-05-15_193657.png" texto="">Captura_de_pantalla_2025-05-15_193657.png</parellas>
+              <parellas imaxe="Captura_de_pantalla_2025-05-15_193528.png" texto="">Captura_de_pantalla_2025-05-15_193528.png</parellas>
+              <cfondo>EBBCF1</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>128</tempo>
+        </paxina>
+    </libro>
+</lim>
